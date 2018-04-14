@@ -1,0 +1,32 @@
+.status-red {
+    -fx-background-color:rgb(128,0,0);
+}
+.status-green {
+    -fx-background-color:rgb(0,128,0);
+}
+.status-blue {
+    -fx-background-color:rgb(0,0,128);
+}
+.status-tomato {
+    -fx-background-color:rgb(255, 99, 71);
+}
+.status-violet {
+    -fx-background-color:rgb(238, 130, 238);
+}
+.status-purple {
+    -fx-background-color:rgb(106, 90, 205);
+}
+.status-yellow {
+    -fx-background-color:rgb(255, 255, 71);
+}
+.status-brown {
+    -fx-background-color:rgb(153, 102, 0);
+}
+.status-black {
+    -fx-background-color:rgb(0, 0, 0);
+}
+.status-purple2{
+       -fx-background-color:rgb(153, 51, 102);
+
+}
+
